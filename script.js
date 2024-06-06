@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function() {
             "sih":"accusativo plurale del pronome riflessivo",
             "urhettun":"3 persona plurale del preterito del verbo urhetan, verbo forte 7 classe (forma sassone, per la e lunga originata da ai, in aat avremmo heirzan)",
             "ænon":"dativo singolare femminile del numerale 'en' (1)",
-            "moutin":"dativo singolare di muodim",
+            "muotin":"dativo singolare di muodim",
             "Hiltibrant":"Hildebrando",
             "enti":"congiunzione aat ('and' con la II MUT)",
             "Hađubrant":"Adubrando",
